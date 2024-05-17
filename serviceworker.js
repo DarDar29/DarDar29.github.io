@@ -1,7 +1,7 @@
 const urlsToCache = [
     // List of assets to cache.
     "/",
-    "imgs/app-touch-icon.png",
+    "imgs/apple-touch-icon.png",
     "imgs/favicon.ico",
     "imgs/icon-192.png",
     "imgs/icon-512-maskable.png",
