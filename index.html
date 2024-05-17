@@ -45,5 +45,11 @@
     </div>
    
     <h1 class="h1"><marquee >Learning PWA Sample Website</marquee></h1>
+
+    <script >
+    if("serviceWorker" in navigator){
+        navigator.serviceWorker.register("serviceworker.js");
+    }
+    </script>
 </body>
 </html>
