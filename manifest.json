@@ -5,7 +5,8 @@
     "display": "standalone",
     "theme_color": "red",
     "background_color": "blue",
-    "description": "I Love Clea Joy Perlas",
+    "description": "Darwin lang",
+    "serviceworkers":"serviceworker.js",
     "icons":[
         {
             "src": "imgs/icon-192.png",
